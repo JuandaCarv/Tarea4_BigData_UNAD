@@ -1,0 +1,1000 @@
+[{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723e6"
+  },
+  "nombre": "Producto 1",
+  "descripcion": "Descripción del producto 1",
+  "precio": 50,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723e7"
+  },
+  "nombre": "Producto 2",
+  "descripcion": "Descripción del producto 2",
+  "precio": 30,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723e8"
+  },
+  "nombre": "Producto 3",
+  "descripcion": "Descripción del producto 3",
+  "precio": 70,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723e9"
+  },
+  "nombre": "Producto 4",
+  "descripcion": "Descripción del producto 4",
+  "precio": 90,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723ea"
+  },
+  "nombre": "Producto 5",
+  "descripcion": "Descripción del producto 5",
+  "precio": 65,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723eb"
+  },
+  "nombre": "Producto 6",
+  "descripcion": "Descripción del producto 6",
+  "precio": 120,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723ec"
+  },
+  "nombre": "Producto 7",
+  "descripcion": "Descripción del producto 7",
+  "precio": 80,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723ed"
+  },
+  "nombre": "Producto 8",
+  "descripcion": "Descripción del producto 8",
+  "precio": 40,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723ee"
+  },
+  "nombre": "Producto 9",
+  "descripcion": "Descripción del producto 9",
+  "precio": 30,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723ef"
+  },
+  "nombre": "Producto 10",
+  "descripcion": "Descripción del producto 10",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f0"
+  },
+  "nombre": "Producto 11",
+  "descripcion": "Descripción del producto 11",
+  "precio": 100,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f1"
+  },
+  "nombre": "Producto 12",
+  "descripcion": "Descripción del producto 12",
+  "precio": 50,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f2"
+  },
+  "nombre": "Producto 13",
+  "descripcion": "Descripción del producto 13",
+  "precio": 40,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f3"
+  },
+  "nombre": "Producto 14",
+  "descripcion": "Descripción del producto 14",
+  "precio": 60,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f4"
+  },
+  "nombre": "Producto 15",
+  "descripcion": "Descripción del producto 15",
+  "precio": 80,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f5"
+  },
+  "nombre": "Producto 16",
+  "descripcion": "Descripción del producto 16",
+  "precio": 120,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f6"
+  },
+  "nombre": "Producto 17",
+  "descripcion": "Descripción del producto 17",
+  "precio": 70,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f7"
+  },
+  "nombre": "Producto 18",
+  "descripcion": "Descripción del producto 18",
+  "precio": 90,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f8"
+  },
+  "nombre": "Producto 19",
+  "descripcion": "Descripción del producto 19",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723f9"
+  },
+  "nombre": "Producto 20",
+  "descripcion": "Descripción del producto 20",
+  "precio": 30,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723fa"
+  },
+  "nombre": "Producto 21",
+  "descripcion": "Descripción del producto 21",
+  "precio": 100,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723fb"
+  },
+  "nombre": "Producto 22",
+  "descripcion": "Descripción del producto 22",
+  "precio": 50,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723fc"
+  },
+  "nombre": "Producto 23",
+  "descripcion": "Descripción del producto 23",
+  "precio": 40,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723fd"
+  },
+  "nombre": "Producto 24",
+  "descripcion": "Descripción del producto 24",
+  "precio": 70,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723fe"
+  },
+  "nombre": "Producto 25",
+  "descripcion": "Descripción del producto 25",
+  "precio": 90,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e754723ff"
+  },
+  "nombre": "Producto 26",
+  "descripcion": "Descripción del producto 26",
+  "precio": 60,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472400"
+  },
+  "nombre": "Producto 27",
+  "descripcion": "Descripción del producto 27",
+  "precio": 110,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472401"
+  },
+  "nombre": "Producto 28",
+  "descripcion": "Descripción del producto 28",
+  "precio": 75,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472402"
+  },
+  "nombre": "Producto 29",
+  "descripcion": "Descripción del producto 29",
+  "precio": 100,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472403"
+  },
+  "nombre": "Producto 30",
+  "descripcion": "Descripción del producto 30",
+  "precio": 50,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472404"
+  },
+  "nombre": "Producto 31",
+  "descripcion": "Descripción del producto 31",
+  "precio": 70,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472405"
+  },
+  "nombre": "Producto 32",
+  "descripcion": "Descripción del producto 32",
+  "precio": 90,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472406"
+  },
+  "nombre": "Producto 33",
+  "descripcion": "Descripción del producto 33",
+  "precio": 120,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472407"
+  },
+  "nombre": "Producto 34",
+  "descripcion": "Descripción del producto 34",
+  "precio": 50,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472408"
+  },
+  "nombre": "Producto 35",
+  "descripcion": "Descripción del producto 35",
+  "precio": 60,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472409"
+  },
+  "nombre": "Producto 36",
+  "descripcion": "Descripción del producto 36",
+  "precio": 40,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547240a"
+  },
+  "nombre": "Producto 37",
+  "descripcion": "Descripción del producto 37",
+  "precio": 100,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547240b"
+  },
+  "nombre": "Producto 38",
+  "descripcion": "Descripción del producto 38",
+  "precio": 30,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547240c"
+  },
+  "nombre": "Producto 39",
+  "descripcion": "Descripción del producto 39",
+  "precio": 80,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547240d"
+  },
+  "nombre": "Producto 40",
+  "descripcion": "Descripción del producto 40",
+  "precio": 50,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547240e"
+  },
+  "nombre": "Producto 41",
+  "descripcion": "Descripción del producto 41",
+  "precio": 75,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547240f"
+  },
+  "nombre": "Producto 42",
+  "descripcion": "Descripción del producto 42",
+  "precio": 90,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472410"
+  },
+  "nombre": "Producto 43",
+  "descripcion": "Descripción del producto 43",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472411"
+  },
+  "nombre": "Producto 44",
+  "descripcion": "Descripción del producto 44",
+  "precio": 50,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472412"
+  },
+  "nombre": "Producto 45",
+  "descripcion": "Descripción del producto 45",
+  "precio": 100,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472413"
+  },
+  "nombre": "Producto 46",
+  "descripcion": "Descripción del producto 46",
+  "precio": 70,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472414"
+  },
+  "nombre": "Producto 47",
+  "descripcion": "Descripción del producto 47",
+  "precio": 80,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472415"
+  },
+  "nombre": "Producto 48",
+  "descripcion": "Descripción del producto 48",
+  "precio": 50,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472416"
+  },
+  "nombre": "Producto 49",
+  "descripcion": "Descripción del producto 49",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472417"
+  },
+  "nombre": "Producto 50",
+  "descripcion": "Descripción del producto 50",
+  "precio": 90,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472418"
+  },
+  "nombre": "Producto 51",
+  "descripcion": "Descripción del producto 51",
+  "precio": 100,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472419"
+  },
+  "nombre": "Producto 52",
+  "descripcion": "Descripción del producto 52",
+  "precio": 50,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547241a"
+  },
+  "nombre": "Producto 53",
+  "descripcion": "Descripción del producto 53",
+  "precio": 70,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547241b"
+  },
+  "nombre": "Producto 54",
+  "descripcion": "Descripción del producto 54",
+  "precio": 60,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547241c"
+  },
+  "nombre": "Producto 55",
+  "descripcion": "Descripción del producto 55",
+  "precio": 40,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547241d"
+  },
+  "nombre": "Producto 56",
+  "descripcion": "Descripción del producto 56",
+  "precio": 100,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547241e"
+  },
+  "nombre": "Producto 57",
+  "descripcion": "Descripción del producto 57",
+  "precio": 70,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547241f"
+  },
+  "nombre": "Producto 58",
+  "descripcion": "Descripción del producto 58",
+  "precio": 80,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472420"
+  },
+  "nombre": "Producto 59",
+  "descripcion": "Descripción del producto 59",
+  "precio": 40,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472421"
+  },
+  "nombre": "Producto 60",
+  "descripcion": "Descripción del producto 60",
+  "precio": 90,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472422"
+  },
+  "nombre": "Producto 61",
+  "descripcion": "Descripción del producto 61",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472423"
+  },
+  "nombre": "Producto 62",
+  "descripcion": "Descripción del producto 62",
+  "precio": 50,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472424"
+  },
+  "nombre": "Producto 63",
+  "descripcion": "Descripción del producto 63",
+  "precio": 100,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472425"
+  },
+  "nombre": "Producto 64",
+  "descripcion": "Descripción del producto 64",
+  "precio": 50,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472426"
+  },
+  "nombre": "Producto 65",
+  "descripcion": "Descripción del producto 65",
+  "precio": 40,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472427"
+  },
+  "nombre": "Producto 66",
+  "descripcion": "Descripción del producto 66",
+  "precio": 70,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472428"
+  },
+  "nombre": "Producto 67",
+  "descripcion": "Descripción del producto 67",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472429"
+  },
+  "nombre": "Producto 68",
+  "descripcion": "Descripción del producto 68",
+  "precio": 50,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547242a"
+  },
+  "nombre": "Producto 69",
+  "descripcion": "Descripción del producto 69",
+  "precio": 90,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547242b"
+  },
+  "nombre": "Producto 70",
+  "descripcion": "Descripción del producto 70",
+  "precio": 100,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547242c"
+  },
+  "nombre": "Producto 71",
+  "descripcion": "Descripción del producto 71",
+  "precio": 80,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547242d"
+  },
+  "nombre": "Producto 72",
+  "descripcion": "Descripción del producto 72",
+  "precio": 110,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547242e"
+  },
+  "nombre": "Producto 73",
+  "descripcion": "Descripción del producto 73",
+  "precio": 40,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547242f"
+  },
+  "nombre": "Producto 74",
+  "descripcion": "Descripción del producto 74",
+  "precio": 70,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472430"
+  },
+  "nombre": "Producto 75",
+  "descripcion": "Descripción del producto 75",
+  "precio": 50,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472431"
+  },
+  "nombre": "Producto 76",
+  "descripcion": "Descripción del producto 76",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472432"
+  },
+  "nombre": "Producto 77",
+  "descripcion": "Descripción del producto 77",
+  "precio": 80,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472433"
+  },
+  "nombre": "Producto 78",
+  "descripcion": "Descripción del producto 78",
+  "precio": 100,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472434"
+  },
+  "nombre": "Producto 79",
+  "descripcion": "Descripción del producto 79",
+  "precio": 40,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472435"
+  },
+  "nombre": "Producto 80",
+  "descripcion": "Descripción del producto 80",
+  "precio": 90,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472436"
+  },
+  "nombre": "Producto 81",
+  "descripcion": "Descripción del producto 81",
+  "precio": 50,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472437"
+  },
+  "nombre": "Producto 82",
+  "descripcion": "Descripción del producto 82",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472438"
+  },
+  "nombre": "Producto 83",
+  "descripcion": "Descripción del producto 83",
+  "precio": 100,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472439"
+  },
+  "nombre": "Producto 84",
+  "descripcion": "Descripción del producto 84",
+  "precio": 90,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547243a"
+  },
+  "nombre": "Producto 85",
+  "descripcion": "Descripción del producto 85",
+  "precio": 80,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547243b"
+  },
+  "nombre": "Producto 86",
+  "descripcion": "Descripción del producto 86",
+  "precio": 100,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547243c"
+  },
+  "nombre": "Producto 87",
+  "descripcion": "Descripción del producto 87",
+  "precio": 110,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547243d"
+  },
+  "nombre": "Producto 88",
+  "descripcion": "Descripción del producto 88",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547243e"
+  },
+  "nombre": "Producto 89",
+  "descripcion": "Descripción del producto 89",
+  "precio": 70,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e7547243f"
+  },
+  "nombre": "Producto 90",
+  "descripcion": "Descripción del producto 90",
+  "precio": 50,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472440"
+  },
+  "nombre": "Producto 91",
+  "descripcion": "Descripción del producto 91",
+  "precio": 40,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472441"
+  },
+  "nombre": "Producto 92",
+  "descripcion": "Descripción del producto 92",
+  "precio": 50,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472442"
+  },
+  "nombre": "Producto 93",
+  "descripcion": "Descripción del producto 93",
+  "precio": 90,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472443"
+  },
+  "nombre": "Producto 94",
+  "descripcion": "Descripción del producto 94",
+  "precio": 70,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472444"
+  },
+  "nombre": "Producto 95",
+  "descripcion": "Descripción del producto 95",
+  "precio": 50,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472445"
+  },
+  "nombre": "Producto 96",
+  "descripcion": "Descripción del producto 96",
+  "precio": 100,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472446"
+  },
+  "nombre": "Producto 97",
+  "descripcion": "Descripción del producto 97",
+  "precio": 60,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472447"
+  },
+  "nombre": "Producto 98",
+  "descripcion": "Descripción del producto 98",
+  "precio": 90,
+  "categoria": "tecnología",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472448"
+  },
+  "nombre": "Producto 99",
+  "descripcion": "Descripción del producto 99",
+  "precio": 50,
+  "categoria": "juguetes",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6820442f57c9be1e75472449"
+  },
+  "nombre": "Producto 100",
+  "descripcion": "Descripción del producto 100",
+  "precio": 80,
+  "categoria": "ropa",
+  "fecha_creacion": "2025-05-11T00:00:00Z"
+}]

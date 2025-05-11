@@ -1,0 +1,49 @@
+// Base de datos y colección
+use catalogo_productos;
+
+// 1. Inserción de un nuevo producto
+db.productos.insertOne({
+  nombre: "Producto Extra",
+  descripcion: "Producto adicional insertado manualmente",
+  precio: 120,
+  categoria: "hogar",
+  fecha_creacion: new Date("2025-05-11T00:00:00Z")
+});
+
+// 2. Selección de todos los productos
+db.productos.find().pretty();
+
+// 3. Actualización de un producto (modificar precio del producto con nombre 'Producto 1')
+db.productos.updateOne(
+  { nombre: "Producto 1" },
+  { $set: { precio: 75 } }
+);
+
+// 4. Eliminación de un producto (por nombre)
+db.productos.deleteOne({ nombre: "Producto Extra" });
+
+// 5. Consulta con filtro (productos con precio mayor a 100)
+db.productos.find({ precio: { $gt: 100 } }).pretty();
+
+// 6. Consulta con múltiples condiciones (precio > 50 y categoría "ropa")
+db.productos.find({
+  $and: [
+    { precio: { $gt: 50 } },
+    { categoria: "ropa" }
+  ]
+}).pretty();
+
+// 7. Consulta de agregación: contar productos por categoría
+db.productos.aggregate([
+  { $group: { _id: "$categoria", total: { $sum: 1 } } }
+]);
+
+// 8. Consulta de agregación: precio promedio por categoría
+db.productos.aggregate([
+  { $group: { _id: "$categoria", promedio_precio: { $avg: "$precio" } } }
+]);
+
+// 9. Consulta de agregación: suma total de precios por categoría
+db.productos.aggregate([
+  { $group: { _id: "$categoria", suma_precio: { $sum: "$precio" } } }
+]);
